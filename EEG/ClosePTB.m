@@ -8,3 +8,5 @@ if  keyisdown
     end
 end 
 end
+
+a=1
